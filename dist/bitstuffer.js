@@ -6,7 +6,7 @@ var BitStuffing = function () {};
 
 BitStuffing.prototype = {
 
-    version: "1.0.0",
+    version: "1.0.1",
 
     /**
      *
